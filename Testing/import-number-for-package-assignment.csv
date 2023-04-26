@@ -1,2 +1,3 @@
 e164Number,provider,byocProviderId,countryIsoCode,countryDialCode,type,capabilityList,city,state,rateCenter,pbxId,serviceAddressLine1,serviceAddressLine2,serviceAddressCity,serviceAddressState,serviceAddressPostalCode,serviceAddressCountry,emergencyAddressLine1,emergencyAddressLine2,emergencyAddressCity,emergencyAddressState,emergencyAddressPostalCode,emergencyAddressCountry,assignedUserEmail,assignedProjectOrAppId,activeOn
-12013967602,ATT,,USA,1,Local,Emergency|Voice,Jersey,NJ,SV TEST,nRQsVgh95v4wJ5dY,511 Fifth Avenue,,New York,NY,10036,USA,511 Fifth Avenue,,New York,NY,10036,USA,automation181@automation.onmicrosoft.com,,
++12013967602,ATT,,USA,1,Local,Emergency|Voice,Jersey,NJ,SV TEST,nRQsVgh95v4wJ5dY,511 Fifth Avenue,,New York,NY,10036,USA,511 Fifth Avenue,,New York,NY,10036,USA,automation181@automation.onmicrosoft.com,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
